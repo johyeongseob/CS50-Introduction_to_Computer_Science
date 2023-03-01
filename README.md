@@ -1,5 +1,5 @@
 # CS50-Introduction_to_Computer_Science
-Note the lecture highlight
+This repository is for note the lecture highlight
 
 What is CS50: introduction to computer science
 
