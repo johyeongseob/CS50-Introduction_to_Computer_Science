@@ -1,3 +1,5 @@
+Lecture 1 note highlight
+
 code by human: source code
 code by machine: machine code, binary, 0 or 1
 
