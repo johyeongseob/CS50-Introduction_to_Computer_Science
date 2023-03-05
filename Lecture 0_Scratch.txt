@@ -30,7 +30,7 @@ Red degree(0~255) + Green(0~255) + Blue(0~255) 섞으면 여러 색을 표현할
 verb = function
 condtional = if, else lf
 갈림길 = boolean expressions: yes/no true/false 0/1
-go back = looop
+go back = loop
 
 input=value -> algorithm=function -> output=side effect
 
