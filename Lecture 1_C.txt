@@ -1,0 +1,13 @@
+code by human: source code
+code by machine: machine code, binary, 0 or 1
+
+compiler: Input is source code, Output is machine Code
+
+Element deciding code's quality: correctness, design, style
+
+free editer: Visual Studio Code(aka. VS Code)
+
+$(Terminal): I'm ready for taking commend
+;(code): This is full stop in sentence
+/n(code): symbol for Making new iine
+
