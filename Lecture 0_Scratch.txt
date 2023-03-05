@@ -23,7 +23,7 @@ One point(pixel) take color -> lots of colors make image.
 
 Video: Changing pixel as time goes by. Hollywood movie: 24FPS(frame per second)
 
-Music: particular frequency is allocated value.
+Music: particular frequency is assigned value.
 
 For solving problem, writing human language instead of algorithm
 
@@ -40,4 +40,4 @@ Using useful term in value's name
 
 Have to disassemble Massive argorithm into easy tasks
 
-Lecture 0 End. Thanks.
+Lecture 0 End. Thanks.  
