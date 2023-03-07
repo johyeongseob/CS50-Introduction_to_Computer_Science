@@ -5,18 +5,20 @@ code by machine: machine code, binary, 0 or 1
 
 compiler: Input is source code, Output is machine Code
 
-Element deciding code's quality: correctness, design, style
+Element deciding code's quality: correctness, design(syntactic sugar), style(indentation)
 
 free editer: Visual Studio Code(aka. VS Code)
 
-Terminal terms
+introduce some terms
+
+1. Terminal terms
 $       : I'm ready for taking commend
 code    : create new file in the directory. or open the file.
 make    : comfile the file
 ./      : run the file
 ctrl+c  : cancel running the file.
 
-Code terms
+2. Code terms
 ;       : This is full stop in sentence
 /n      : symbol for Making new iine
 %       : plog in some values into placeholder
@@ -24,21 +26,38 @@ Code terms
 " "     : for string.
 ||      : 'or' logically
 1 'tap' : 4 'spaces'
-
-
-stdio.h : standard input/outout library. 라이브러리를 가져오는 역할 header file
-import compiler. I want to use functionality
-
-type of value
-bool, char, double, float, int, long, string
-
 conditional
-if (bool expression) : space after word 'if'
+if (bool expression) caution: space after word 'if'
 { }
 else if ()
 { }
 else
 { }
+const : declare a constant (defensively)
+//: write comment without effecting code
+void: create my own function = pseudocode, abstraction
+1. function_name(void) {function} return value
+2. void function_name(type value) {function}
+caution: copy & paste the first line of code from each function
+
+3. CLI term
+cd	 : change directory
+cp	 : copy a file
+ls     : list
+mkdir	 : make a directory
+mv	 : move(change name of file), moving file
+rm	 : remove
+rmdir	 : remove directory
+
+4. Library terms(header file)
+stdio.h : standard input/outout library.
+import compiler. I want to use functionality
+
+
+type of value
+bool, char, double, float, int, long, string
 
 syntactic sugar : more slightly
 ex. counter = counter+1; -> counter += 1; -> counter++;
+
+operators
